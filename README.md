@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:23wh1a6639@bvrit-hyderabad.edu.in"><img src="https://img.shields.io/badge/email-say_hi-ff5c8f?style=flat-square&labelColor=0f151b&logo=gmail&logoColor=ff5c8f" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ruchira-chowdary-talluri-2b66613a1/"><img src="https://img.shields.io/badge/linkedin-connect-3cc6c4?style=flat-square&labelColor=0f151b&logo=linkedin&logoColor=3cc6c4" alt="LinkedIn"></a>
-  <a href="https://claude.ai/artifact/BbeaLg9r2gcn8WdZgY9R93"><img src="https://img.shields.io/badge/portfolio-live-e6ecf0?style=flat-square&labelColor=0f151b&logo=googlechrome&logoColor=e6ecf0" alt="Portfolio"></a>
+  <a href="https://ruchirachowdary-1836.github.io"><img src="https://img.shields.io/badge/portfolio-live-e6ecf0?style=flat-square&labelColor=0f151b&logo=googlechrome&logoColor=e6ecf0" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=ruchirachowdary-1836&style=flat-square&color=ff5c8f&label=frames+received" alt="Profile views">
 </p>
 
