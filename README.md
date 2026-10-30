@@ -73,11 +73,8 @@ NLP meeting summarizer on BART/T5 → latency **3 s → 1.2 s**
 ### `> git log --graph --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchirachowdary-1836&show_icons=true&hide_border=true&bg_color=0f151b&title_color=ff5c8f&icon_color=3cc6c4&text_color=e6ecf0&ring_color=ff5c8f&count_private=true" height="165" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com?user=ruchirachowdary-1836&hide_border=true&background=0f151b&ring=ff5c8f&fire=ff5c8f&currStreakLabel=3cc6c4&sideLabels=93a2ae&currStreakNum=e6ecf0&sideNums=e6ecf0&dates=5b6b78" height="165" alt="Contribution streak">
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchirachowdary-1836&bg_color=0f151b&color=93a2ae&line=ff5c8f&point=3cc6c4&area=true&area_color=ff5c8f&hide_border=true&custom_title=frames%20per%20day" width="100%" alt="Contribution activity graph">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruchirachowdary-1836/ruchirachowdary-1836/output/snake-dark.svg">
