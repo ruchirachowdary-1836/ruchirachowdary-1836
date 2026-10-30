@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Diamond Price Prediction: Price regression with calibrated intervals">
+<style>
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+.knob{animation:knob 5s ease-in-out infinite alternate}
+@keyframes knob{from{transform:translateX(0)}to{transform:translateX(220px)}}
+.fill{transform-box:fill-box;transform-origin:left;animation:fill 5s ease-in-out infinite alternate}
+@keyframes fill{from{transform:scaleX(.08)}to{transform:scaleX(1)}}
+.band{transform-box:fill-box;transform-origin:center;animation:band 5s ease-in-out infinite alternate}
+@keyframes band{from{transform:scaleX(.45)}to{transform:scaleX(1)}}
+.p{opacity:0;animation:5s linear infinite alternate}
+.p1{animation-name:p1}.p2{animation-name:p2}.p3{animation-name:p3}
+@keyframes p1{0%,33%{opacity:1}34%,100%{opacity:0}}
+@keyframes p2{0%,33%{opacity:0}34%,66%{opacity:1}67%,100%{opacity:0}}
+@keyframes p3{0%,66%{opacity:0}67%,100%{opacity:1}}
+.gem{animation:gem 4s ease-in-out infinite}
+@keyframes gem{50%{opacity:.55}}
+</style>
+<rect width="1200" height="300" rx="14" fill="#161e26" stroke="#26323c"/>
+<text x="48" y="70" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="36" letter-spacing="-1" fill="#e6ecf0">Diamond Price Prediction</text>
+<text x="48" y="104" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#93a2ae">Price regression with calibrated intervals</text>
+<rect x="570" y="46" width="83" height="26" rx="13" fill="none" stroke="#3cc6c4"/>
+<text x="580" y="64" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#3cc6c4">shipped</text>
+<g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#e6ecf0"><text x="48" y="150"><tspan fill="#ff5c8f">▸</tspan> 5 models benchmarked; HistGBM wins at R² 0.98</text><text x="48" y="180"><tspan fill="#ff5c8f">▸</tspan> Conformal 90% intervals hit 90.1% test coverage</text><text x="48" y="210"><tspan fill="#ff5c8f">▸</tspan> React dashboard re-prices live with SHAP breakdowns</text></g>
+<g font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#93a2ae"><rect x="48" y="244" width="85" height="26" rx="3" fill="none" stroke="#26323c"/><text x="91" y="262" text-anchor="middle">LightGBM</text><rect x="141.2" y="244" width="119" height="26" rx="3" fill="none" stroke="#26323c"/><text x="201" y="262" text-anchor="middle">scikit-learn</text><rect x="268.0" y="244" width="52" height="26" rx="3" fill="none" stroke="#26323c"/><text x="294" y="262" text-anchor="middle">SHAP</text><rect x="327.6" y="244" width="77" height="26" rx="3" fill="none" stroke="#26323c"/><text x="366" y="262" text-anchor="middle">FastAPI</text><rect x="412.40000000000003" y="244" width="60" height="26" rx="3" fill="none" stroke="#26323c"/><text x="442" y="262" text-anchor="middle">React</text></g>
+<rect x="820" y="24" width="352" height="252" rx="8" fill="#0f151b"/>
+<g><g class="gem" fill="none" stroke="#3cc6c4" stroke-width="1.6"><path d="M1100 60h40l14 18-34 40-34-40z"/><path d="M1086 78h68M1110 60l10 18 10-18M1120 78v40"/></g><g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="#e6ecf0"><text class="p p1" x="846" y="98">$1,240</text><text class="p p2" x="846" y="98">$4,870</text><text class="p p3" x="846" y="98">$11,320</text></g><text x="846" y="122" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="12" fill="#93a2ae">90% interval (CQR)</text><rect class="band" x="846" y="132" width="220" height="10" rx="5" fill="#ff5c8f" opacity=".35"/><rect x="954" y="128" width="3" height="18" fill="#ff5c8f"/><text x="846" y="186" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="12" fill="#93a2ae">carat</text><rect x="846" y="198" width="240" height="4" rx="2" fill="#26323c"/><rect class="fill" x="846" y="198" width="240" height="4" rx="2" fill="#3cc6c4"/><circle class="knob" cx="856" cy="200" r="8" fill="#0f151b" stroke="#3cc6c4" stroke-width="2.5"/><text x="836" y="262" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#93a2ae">R² 0.98 · coverage 90.1%</text></g>
+</svg>

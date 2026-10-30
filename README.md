@@ -15,27 +15,51 @@
 
 ### `> ls ./projects --live`
 
-<a href="https://github.com/ruchirachowdary-1836/FaceAttend-AI"><img src="assets/faceattend.svg" width="100%" alt="FaceAttend-AI — real-time face-recognition attendance system"></a>
-<a href="https://github.com/ruchirachowdary-1836/alumniconnect"><img src="assets/alumniconnect.svg" width="100%" alt="AlumniConnect — full-stack alumni mentorship portal"></a>
-<a href="https://github.com/ruchirachowdary-1836/EvidenceGuard"><img src="assets/evidenceguard.svg" width="100%" alt="EvidenceGuard — explainable fraud-alert prioritization (in progress)"></a>
+<sub>8 projects · 3 deployed · click a card for the code</sub>
 
+<a href="https://github.com/ruchirachowdary-1836/FaceAttend-AI"><img src="assets/faceattend.svg" width="100%" alt="FaceAttend-AI — real-time face-recognition attendance system"></a>
 <p align="center">
-  <a href="https://alumniconnect-ten-mu.vercel.app"><img src="https://img.shields.io/badge/AlumniConnect-live_demo-3cc6c4?style=for-the-badge&labelColor=0f151b&logo=vercel&logoColor=3cc6c4" alt="AlumniConnect live demo"></a>
-  <a href="https://chess-game-eta-seven.vercel.app"><img src="https://img.shields.io/badge/Chess-play_now-ff5c8f?style=for-the-badge&labelColor=0f151b&logo=vercel&logoColor=ff5c8f" alt="Chess game live demo"></a>
+  <a href="https://github.com/ruchirachowdary-1836/FaceAttend-AI"><img src="https://img.shields.io/badge/code-view_repo-e6ecf0?style=flat-square&labelColor=0f151b&logo=github&logoColor=e6ecf0" alt="FaceAttend-AI source"></a>
 </p>
 
-<details>
-<summary><b>📂 more builds</b></summary>
-<br>
+<a href="https://github.com/ruchirachowdary-1836/alumniconnect"><img src="assets/alumniconnect.svg" width="100%" alt="AlumniConnect — full-stack alumni mentorship portal"></a>
+<p align="center">
+  <a href="https://github.com/ruchirachowdary-1836/alumniconnect"><img src="https://img.shields.io/badge/code-view_repo-e6ecf0?style=flat-square&labelColor=0f151b&logo=github&logoColor=e6ecf0" alt="alumniconnect source"></a>
+  <a href="https://alumniconnect-ten-mu.vercel.app"><img src="https://img.shields.io/badge/live-open_app-3cc6c4?style=flat-square&labelColor=0f151b&logo=rocket&logoColor=3cc6c4" alt="alumniconnect live app"></a>
+</p>
 
-| repo | what it is | stack |
-| --- | --- | --- |
-| [NeuroVista AI](https://github.com/ruchirachowdary-1836/-Automated-Medical-Image-Segmentation-Classification) | Brain-tumour segmentation with calibrated confidence, from NIfTI upload to a multi-planar viewer | PyTorch · FastAPI · React |
-| [ExperimentPilot AI](https://github.com/ruchirachowdary-1836/EXPERIMENTPILOT-AI) | Picks the next diagnostic experiment when an ML model breaks and updates its beliefs from real measurements | Python · FastAPI |
-| [Diamond Price Prediction](https://github.com/ruchirachowdary-1836/Diamond-price-Prediction) | Price models with a FastAPI + React front end | scikit-learn · LightGBM · React |
-| [CHESS-GAME](https://github.com/ruchirachowdary-1836/CHESS-GAME) | Two-player chess in the browser, [playable here](https://chess-game-eta-seven.vercel.app) | HTML · CSS · JavaScript |
+<a href="https://github.com/ruchirachowdary-1836/nexzibytefull"><img src="assets/nexzibyte.svg" width="100%" alt="NexziByte TechTalk — tech community and events platform with QR-signed passes"></a>
+<p align="center">
+  <a href="https://github.com/ruchirachowdary-1836/nexzibytefull"><img src="https://img.shields.io/badge/code-view_repo-e6ecf0?style=flat-square&labelColor=0f151b&logo=github&logoColor=e6ecf0" alt="nexzibytefull source"></a>
+  <a href="https://techtalk-frontend-acvb.onrender.com"><img src="https://img.shields.io/badge/live-open_app-3cc6c4?style=flat-square&labelColor=0f151b&logo=rocket&logoColor=3cc6c4" alt="nexzibytefull live app"></a>
+</p>
 
-</details>
+<a href="https://github.com/ruchirachowdary-1836/EvidenceGuard"><img src="assets/evidenceguard.svg" width="100%" alt="EvidenceGuard — explainable fraud-alert prioritization"></a>
+<p align="center">
+  <a href="https://github.com/ruchirachowdary-1836/EvidenceGuard"><img src="https://img.shields.io/badge/code-view_repo-e6ecf0?style=flat-square&labelColor=0f151b&logo=github&logoColor=e6ecf0" alt="EvidenceGuard source"></a>
+</p>
+
+<a href="https://github.com/ruchirachowdary-1836/-Automated-Medical-Image-Segmentation-Classification"><img src="assets/neurovista.svg" width="100%" alt="NeuroVista AI — brain-tumour MRI segmentation with calibrated confidence"></a>
+<p align="center">
+  <a href="https://github.com/ruchirachowdary-1836/-Automated-Medical-Image-Segmentation-Classification"><img src="https://img.shields.io/badge/code-view_repo-e6ecf0?style=flat-square&labelColor=0f151b&logo=github&logoColor=e6ecf0" alt="-Automated-Medical-Image-Segmentation-Classification source"></a>
+</p>
+
+<a href="https://github.com/ruchirachowdary-1836/EXPERIMENTPILOT-AI"><img src="assets/experimentpilot.svg" width="100%" alt="ExperimentPilot AI — active diagnosis of ML model failures"></a>
+<p align="center">
+  <a href="https://github.com/ruchirachowdary-1836/EXPERIMENTPILOT-AI"><img src="https://img.shields.io/badge/code-view_repo-e6ecf0?style=flat-square&labelColor=0f151b&logo=github&logoColor=e6ecf0" alt="EXPERIMENTPILOT-AI source"></a>
+</p>
+
+<a href="https://github.com/ruchirachowdary-1836/Diamond-price-Prediction"><img src="assets/diamond.svg" width="100%" alt="Diamond Price Prediction — regression with conformal intervals and SHAP"></a>
+<p align="center">
+  <a href="https://github.com/ruchirachowdary-1836/Diamond-price-Prediction"><img src="https://img.shields.io/badge/code-view_repo-e6ecf0?style=flat-square&labelColor=0f151b&logo=github&logoColor=e6ecf0" alt="Diamond-price-Prediction source"></a>
+</p>
+
+<a href="https://github.com/ruchirachowdary-1836/CHESS-GAME"><img src="assets/chess.svg" width="100%" alt="Chess Game — two-player chess in the browser"></a>
+<p align="center">
+  <a href="https://github.com/ruchirachowdary-1836/CHESS-GAME"><img src="https://img.shields.io/badge/code-view_repo-e6ecf0?style=flat-square&labelColor=0f151b&logo=github&logoColor=e6ecf0" alt="CHESS-GAME source"></a>
+  <a href="https://chess-game-eta-seven.vercel.app"><img src="https://img.shields.io/badge/live-open_app-3cc6c4?style=flat-square&labelColor=0f151b&logo=rocket&logoColor=3cc6c4" alt="CHESS-GAME live app"></a>
+</p>
+
 
 <img src="assets/divider.svg" width="100%" alt="">
 

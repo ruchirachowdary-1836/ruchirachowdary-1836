@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="NeuroVista AI: Brain-tumour MRI segmentation with confidence">
+<style>
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+.reg{animation:reg 3s ease-in-out infinite}
+.r2{animation-delay:.4s}.r3{animation-delay:.8s}
+@keyframes reg{50%{opacity:.35}}
+.scrub{animation:scrub 5s ease-in-out infinite alternate}
+@keyframes scrub{from{transform:translateX(0)}to{transform:translateX(250px)}}
+.cross{animation:cross 5s ease-in-out infinite alternate}
+@keyframes cross{from{transform:translate(-20px,-10px)}to{transform:translate(20px,12px)}}
+</style>
+<rect width="1200" height="300" rx="14" fill="#161e26" stroke="#26323c"/>
+<text x="48" y="70" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="36" letter-spacing="-1" fill="#e6ecf0">NeuroVista AI</text>
+<text x="48" y="104" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#93a2ae">Brain-tumour MRI segmentation with confidence</text>
+<rect x="339" y="46" width="92" height="26" rx="13" fill="none" stroke="#ff5c8f"/>
+<text x="349" y="64" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#ff5c8f">research</text>
+<g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#e6ecf0"><text x="48" y="150"><tspan fill="#ff5c8f">▸</tspan> 4-channel U-Net over T1 · T1ce · T2 · FLAIR volumes</text><text x="48" y="180"><tspan fill="#ff5c8f">▸</tspan> Calibrated confidence: entropy, MC-dropout, TTA, ECE</text><text x="48" y="210"><tspan fill="#ff5c8f">▸</tspan> Multi-planar viewer with synced crosshair and overlays</text></g>
+<g font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#93a2ae"><rect x="48" y="244" width="77" height="26" rx="3" fill="none" stroke="#26323c"/><text x="86" y="262" text-anchor="middle">PyTorch</text><rect x="132.8" y="244" width="77" height="26" rx="3" fill="none" stroke="#26323c"/><text x="171" y="262" text-anchor="middle">FastAPI</text><rect x="217.60000000000002" y="244" width="60" height="26" rx="3" fill="none" stroke="#26323c"/><text x="248" y="262" text-anchor="middle">React</text><rect x="285.6" y="244" width="102" height="26" rx="3" fill="none" stroke="#26323c"/><text x="337" y="262" text-anchor="middle">TypeScript</text><rect x="395.6" y="244" width="60" height="26" rx="3" fill="none" stroke="#26323c"/><text x="426" y="262" text-anchor="middle">NIfTI</text></g>
+<rect x="820" y="24" width="352" height="252" rx="8" fill="#0f151b"/>
+<g><ellipse cx="996" cy="128" rx="82" ry="96" fill="none" stroke="#5b6b78" stroke-width="2"/><ellipse cx="996" cy="128" rx="68" ry="82" fill="none" stroke="#26323c" stroke-width="1"/><path d="M996 46V210" stroke="#26323c" stroke-dasharray="3 4"/><ellipse class="reg" cx="1024" cy="108" rx="30" ry="24" fill="#ff5c8f" opacity=".35"/><ellipse class="reg r2" cx="1026" cy="110" rx="18" ry="14" fill="#f7b267" opacity=".6"/><ellipse class="reg r3" cx="1028" cy="111" rx="8" ry="6" fill="#3cc6c4" opacity=".9"/><g class="cross" stroke="#e6ecf0" stroke-width="1" opacity=".6"><path d="M1026 70V150"/><path d="M986 110H1066"/></g><path d="M846 240H1146" stroke="#26323c" stroke-width="3" stroke-linecap="round"/><circle class="scrub" cx="866" cy="240" r="6" fill="#ff5c8f"/><g font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="12" fill="#93a2ae"><text x="836" y="266"><tspan fill="#ff5c8f">■</tspan> WT  <tspan fill="#f7b267">■</tspan> TC  <tspan fill="#3cc6c4">■</tspan> ET · conf 0.91</text></g></g>
+</svg>
