@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" aria-hidden="true">
+<style>
+.pk{animation:go 3.6s cubic-bezier(.6,0,.4,1) infinite}
+.pk2{animation-delay:1.8s}
+@keyframes go{0%{transform:translateX(0);opacity:0}8%{opacity:1}92%{opacity:1}100%{transform:translateX(1120px);opacity:0}}
+@media (prefers-reduced-motion: reduce){.pk{animation:none}}
+</style>
+<path d="M0 14.5H1200" stroke="#5b6b78" stroke-width="1" stroke-dasharray="2 6"/>
+<g class="pk"><rect x="20" y="9" width="40" height="11" rx="2" fill="#ff5c8f"/><text x="40" y="18" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="8" fill="#0f151b">frame</text></g>
+<g class="pk pk2"><rect x="20" y="9" width="40" height="11" rx="2" fill="#3cc6c4"/><text x="40" y="18" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="8" fill="#0f151b">ack</text></g>
+</svg>

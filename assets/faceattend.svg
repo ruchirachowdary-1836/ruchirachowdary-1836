@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="FaceAttend-AI: Real-time face-recognition attendance">
+<style>
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+.fb{animation:fb 6s ease infinite}
+@keyframes fb{0%,20%{stroke:#ff5c8f;transform:translate(-30px,20px) scale(1.15)}45%{stroke:#ff5c8f;transform:none}60%,90%{stroke:#3cc6c4;transform:none}100%{stroke:#ff5c8f;transform:translate(-30px,20px) scale(1.15)}}
+.fb{transform-origin:996px 140px;transform-box:view-box}
+.cf{opacity:0;animation:6s linear infinite}
+.c1{animation-name:c1}.c2{animation-name:c2}.c3{animation-name:c3}
+@keyframes c1{0%,30%{opacity:0}31%,44%{opacity:1}45%,100%{opacity:0}}
+@keyframes c2{0%,44%{opacity:0}45%,57%{opacity:1}58%,100%{opacity:0}}
+@keyframes c3{0%,57%{opacity:0}58%,94%{opacity:1}95%,100%{opacity:0}}
+.sweep{animation:sw 2.4s linear infinite}
+@keyframes sw{from{transform:translateY(0)}to{transform:translateY(200px)}}
+</style>
+<rect width="1200" height="300" rx="14" fill="#161e26" stroke="#26323c"/>
+<text x="48" y="70" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="36" letter-spacing="-1" fill="#e6ecf0">FaceAttend-AI</text>
+<text x="48" y="104" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#93a2ae">Real-time face-recognition attendance</text>
+<rect x="339" y="46" width="83" height="26" rx="13" fill="none" stroke="#3cc6c4"/>
+<text x="349" y="64" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#3cc6c4">shipped</text>
+<g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#e6ecf0"><text x="48" y="150"><tspan fill="#ff5c8f">▸</tspan> Webcam frames over WebSocket → FastAPI → live results on Canvas</text><text x="48" y="180"><tspan fill="#ff5c8f">▸</tspan> Marks attendance only after 3-frame confirmation, once a day</text><text x="48" y="210"><tspan fill="#ff5c8f">▸</tspan> 512-d ArcFace embeddings matched by cosine similarity</text></g>
+<g font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" fill="#93a2ae"><rect x="48" y="244" width="102" height="26" rx="3" fill="none" stroke="#26323c"/><text x="99" y="262" text-anchor="middle">JavaScript</text><rect x="158.0" y="244" width="94" height="26" rx="3" fill="none" stroke="#26323c"/><text x="205" y="262" text-anchor="middle">WebSocket</text><rect x="259.6" y="244" width="68" height="26" rx="3" fill="none" stroke="#26323c"/><text x="294" y="262" text-anchor="middle">Canvas</text><rect x="336.0" y="244" width="85" height="26" rx="3" fill="none" stroke="#26323c"/><text x="379" y="262" text-anchor="middle">Chart.js</text><rect x="429.2" y="244" width="77" height="26" rx="3" fill="none" stroke="#26323c"/><text x="468" y="262" text-anchor="middle">FastAPI</text><rect x="514.0" y="244" width="68" height="26" rx="3" fill="none" stroke="#26323c"/><text x="548" y="262" text-anchor="middle">OpenCV</text></g>
+<rect x="820" y="24" width="352" height="252" rx="8" fill="#0f151b"/>
+<g><circle cx="996" cy="130" r="42" fill="none" stroke="#5b6b78" stroke-width="2"/><path d="M920 250c10-50 40-70 76-70s66 20 76 70" fill="none" stroke="#5b6b78" stroke-width="2"/><rect class="sweep" x="830" y="34" width="332" height="1.5" fill="#ff5c8f" opacity=".5"/><g class="fb" fill="none" stroke-width="3" stroke-linecap="square"><path d="M946 96V80H962"/><path d="M1030 80H1046V96"/><path d="M1046 174V190H1030"/><path d="M962 190H946V174"/></g><g font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13"><text x="836" y="262" fill="#93a2ae">id_17 · cos 0.92 ·</text><text class="cf c1" x="990" y="262" fill="#e6ecf0">confirm 1/3</text><text class="cf c2" x="990" y="262" fill="#e6ecf0">confirm 2/3</text><text class="cf c3" x="990" y="262" fill="#3cc6c4">✓ present</text></g></g>
+</svg>
